@@ -18,7 +18,6 @@ const useFetch = ({ keyword }) => {
       //   It's the Null-Conditional Operator It's a syntactic sugar for null checking:
       //   Becomes if str == None: return None else return str.
       setGifURL(data[0]?.images?.downsized.url);
-      console.log(gifURL);
     } catch (err) {
       setGifURL(
         "https://metro.co.uk/wp-content/uploads/2015/05/pokemon_crying.gif?quality=90&strip=all&zoom=1&resize=500%2C284"
