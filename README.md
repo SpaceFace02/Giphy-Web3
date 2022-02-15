@@ -4,6 +4,19 @@
 
 ## Imp - When you check out the website, reload the page once, sometimes there's a bug that you can't see the gifs below in the latest transactions section.
 
+## TechStack
+
+- Metamask
+- Vite React
+- Giphy API
+- Hardhat
+- Ethers
+- Alchemy
+- Ropsten Test Network
+- Netlify
+- Dotenv
+- Tailwind CSS
+
 ### Steps to ensure perfect Working:
 
 1. Check out the deployed website in Google Chrome preferably, with the metamash extension installed.
