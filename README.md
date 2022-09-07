@@ -28,5 +28,3 @@
 7. Click on Send Now and wait for 30-45 seconds for it to be reflected in the block chain.
 8. Check out the console as well, for additional messages. (If you are a developer).
 9. After you see **success** or when the loading animation disappears, reload the page once if you can't see the new GIF added in the latest transaction section.
-
-#### Reference - https://www.youtube.com/watch?v=Wn_Kb3MR_cU
